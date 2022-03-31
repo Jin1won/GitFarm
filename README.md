@@ -23,6 +23,8 @@
 
 <br />
 
+## 🎥 [데모 영상](https://user-images.githubusercontent.com/76507701/161032412-d73fab96-778e-4ced-b796-b6748faeeebd.mp4)
+
 ## :nut_and_bolt: 서비스 주요 기능
 
 ### 메인 기능
